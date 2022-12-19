@@ -1,3 +1,6 @@
+# The site has been deployed on netlify.  Please check out:
+https://dojo-online-store.netlify.app/products
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
