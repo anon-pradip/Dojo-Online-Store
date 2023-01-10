@@ -1,5 +1,5 @@
 # The site has been deployed on netlify.  Please check out:
-https://dojo-online-store.netlify.app/products
+https://dojo-online-store.netlify.app
 
 # Getting Started with Create React App
 
